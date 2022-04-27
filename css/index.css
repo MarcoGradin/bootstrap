@@ -1,0 +1,7 @@
+.micolor{
+    background-color: rgb(65, 5, 206);
+}
+.navbar li a:hover {
+    background: rgb(38, 123, 151);
+    color: aliceblue;
+}
