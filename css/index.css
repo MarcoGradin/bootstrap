@@ -1,7 +1,7 @@
 .micolor{
-    background-color: rgb(65, 5, 206);
+    background-color: rgb(223, 44, 12);
 }
 .navbar li a:hover {
-    background: rgb(38, 123, 151);
-    color: aliceblue;
+    background: rgb(247, 237, 236);
+    color: rgb(228, 96, 63);
 }
